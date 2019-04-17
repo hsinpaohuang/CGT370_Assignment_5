@@ -11,4 +11,4 @@ Data Sources
 
 Map of each state in the US: https://github.com/deldersveld/topojson/tree/master/countries/us-states
 
-Migration patter data: https://www.census.gov/data/tables/2016/demo/geographic-mobility/county-to-county-migration-2012-2016.html
+Migration pattern data: https://www.census.gov/data/tables/2016/demo/geographic-mobility/county-to-county-migration-2012-2016.html
